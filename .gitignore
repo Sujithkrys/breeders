@@ -1,0 +1,17 @@
+node_modules
+dist
+.DS_Store
+.env
+
+# Ignore the output video from Git but not videos you import into src/.
+out
+
+.claude/settings.local.json
+assets/apple/
+public/applepay/ref/
+# Apple SF Pro fonts: licence forbids redistribution, keep local only
+public/fonts/sf/
+assets/fonts/
+public/applepay/site/
+
+__pycache__/
