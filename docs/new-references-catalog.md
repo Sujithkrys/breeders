@@ -1,0 +1,205 @@
+# New references — per-file catalog
+
+Index = order of `ls` in `new references/videos` (see out/.tmp/newrefs/index.txt for filenames). Notes written while watching frame sheets on 2026-10-14.
+
+- 01 30s 9:16 — split "Designed in Figma / Animated in After Effects": Figma frame on top, AE result below. Hinglish podcast clip with red bold kinetic words (24 HR, JUDGE SOMEONE), cut-out heads, clock. Process-reveal format.
+- 02 50s 9:16 — creator talking head (bottom) + screen (top): "Motion design is changing". Opus 5.5 animates static brand BLOOM from a Figma link; palette swatches (paper/orange/lime/ink), grid construction lines, Claude prompt UI. Bold condensed caption words.
+- 03 54s 9:16 — PHONE FILMING A MONITOR in dark warm room (our format!): idea.ai launch film. Pixel horse logo, painterly orange/blue gradient imagery, billboard/OOH mockups, landing UI, product UI, logo end card.
+- 04 14s 4:5 silent — "Make room for less": wobbling kinetic letters with furniture objects popping between words; cream bg. Ad for a Claude skill.
+- 05 24s 9:16 — tutorial: "X-ray transition" in Resolve (screen filmed with fisheye curve); script captions per step. Not our style; trick = negative/x-ray frames between two clips.
+- 06 35s 16:9 — invideo MCP ad: "Your AI doesn't just… edit" kinetic type on grid paper, red serif + logos inline, prompt box, timeline blocks with named cursors (Claude/Codex/Cursor/You) collaborating, macOS dock, "and [logos] edit together", red gradient wipe. Clean light SaaS style.
+- 07 18s 16:9 — art/experimental: B&W photo + glowing yellow outlines of people, arrows, eyes grid, "HIGHS and LOWS" mono type with red strike, x-ray flower, fireworks. Editorial collage, mixed media.
+- 08 60s 16:9 — FYD Studios showreel: dot-matrix / LED-pixel type ("thing", "Stu"), "Attention is everything" mono, curved wall of UI screens (cylinder), constellation lines, halftone orange globe, particle walking man "From script to screen", client logos, FYD logo end. Very close to our dot-matrix taste.
+- 09 12s 16:9 — retro archival collage: 16mm grain, lotus, golden spiral over hurricane, chromatic-aberration figure, Saturn, warp stars, eye macro. Film-texture mood reel.
+- 10 22s 9:16 — phone filming a vertical monitor showing an AE edit of a talking-head reel: minimal white cards, small type, iMessage bubble, circle reveal "to experience it". Calm Apple-like editing on talking head.
+- 11 57s 9:16 — talking head "A single second of this video… ChatGPT did": serif captions with key word in yellow, screen UI cards (prompt boxes, script page, timeline, raw-take timer 1:20), B&W cutaway, comment-CTA end. Classic AI-tool creator format.
+- 12 14s letterbox — Hindu mythology edit: high-contrast B&W + red, Om symbol fixed centre, Durga/Shiva illustration, fast cuts. Strong central anchor symbol across cuts.
+- 13 65s 9:16 — talking head (Anthropic hoodie) about a guy who had Claude analyse 12 yrs of iMessages → website "The receipts / The shape of us / The vocabulary": editorial cream data cards w/ handwritten-serif titles, bar charts; then film/TV b-roll (K-drama, Her) for storytelling; small white word captions. Story > tool.
+- 14 22s 16:9 — creator studio-desk intro: huge hand-painted orange/yellow type on walls ("HELLO NEW WORLD", "ALL THE BOYS AND GIRLS"), glowing monitor, macro b-roll (eye, mouse, pen, rec button). Warm practical lighting.
+- 15 40s 9:16 — phone filming a monitor (dark room, warm lamp): Workflow Studio brand film: minimal white screens, tiny serif type, W/F circle monogram, film-grain serif type, billboard mockups on city. Very calm, lots of white space.
+- 16 7s 16:9 — auto-rickshaw "Moving Metry": product exploded into labelled UI panels (Panel_01, Hood, Wheel, Meter) with connector curves on yellow, bounding-box handles, giant white sans type with object crossing it, black bg. Indian object + tech-annotation look.
+- 17 11s 16:9 — Indian classical-dance illustration (Bharatanatyam → Kali): rich gold/red/blue, giant yellow letters behind figure ("KITTA"), mandala bg, eye macro. Indian cultural poster style (AI imagery).
+- 18 23s 16:9 — space/cosmic VFX: black holes, nebula explosions, pulsar beam, letterboxed. Mood only.
+- 19 14s 4:5 silent — same Claude-skill ad as 04: "Make room for shine/smart" product photos (Olaplex, Xiaomi) slotting between words in brand-coloured cards. Template: kinetic sentence + product cut-outs.
+- 20 29s 16:9 — Gemini concept launch: dark blue silk-gradient bg, thin orbit arcs, "Intelligence evolved", halftone dot photo reveal, cursor-driven UI (prompt "Edit this image…"), floating card cloud, white end "Get started with Google Gemini" + store badges.
+- 21 32s 9:16 — surreal loop: line-drawn head profile, glowing clock inside, tiny silhouette man pushes/climbs/rides the clock hands (Sisyphus). One idea, one frame, perfect loop.
+- 22 10s 16:9 — Cytation AI: brain x-ray cut-out on red, "GROW UP" collage w/ silhouette, rapid word cards (painter/mechanic/producer/truthful) red⇄white flips.
+- 23 18s 16:9 — "Highs and Lows" (same author as 07): orange flat runners, pendulum engineering sketch, glowing floating figures, sunset silhouettes, serif HIGHS AND LOWS on horizon, fireworks.
+- 24 63s 9:16 — Buck-style "Not an AI video" — hand-drawn pink pond w/ koi & lilies (paper texture), talking head w/ mic, Claude Code custom skill "motion-studio-by-buck", octopus illustration result, comment "DAY 9". Caption: small mono caps centred.
+- 25 11s 4:5 silent — same Claude-skill series: "Turn product photos into videos": gradient spheres + furniture cut-outs, dot grid spelling MAKE ROOM, slider rails with objects as knobs, ring of objects around title, tumbling gradient squares. Cream card, playful physics.
+- 26 6s 16:9 — rapid visual-essay montage: line-art gun, ape portrait, x-ray skull, evolution silhouettes, eye opening w/ clock in iris, falling man, grid of fiery eyes. Match-cuts on centre.
+- 27 11s 16:9 — cosmic/eye montage: hyperspace, eye w/ HUD rings, glowing figure in explosion, lotus, sketched skulls, glitch datamosh. Visual-essay b-roll.
+- 28 19s 16:9 — 3D maximalist Y2K: hand pressing button with red particle burst, purple checker floors, holographic brain, glitter eye, BSOD → fist punches through glass shards → white flash. Bold CG transitions.
+- 29 14s 16:9 — CapCut compilation (same visual-essay genre): eye w/ tracking HUD numbers, glowing floating silhouettes, ship blueprint, black hole, inverted windmills, rifle cut-out, starburst.
+- 30 70s 16:9 — algrohack SaaS launch: peach/coral gradient bg, UI cards (stats, Google Doc script, search pills), creator cut-out, phone mock, "problem isn't [posting time]" pill words, huge "2-5X", donut timer, logo + Try now cursor click. Very standard SaaS explainer; good pacing but generic.
+- 31 15s 9:16 — POV phone filming AE timeline on laptop: "POV: you make videos that converts" — white minimal SaaS kinetic type, avatars around headline, pricing UI. Shows the craft-in-progress format.
+- 32 45s 4:3 — CRED "evolution of money" (Indian!): sage/cream paper bg, rupee notes & coins (real scans), vintage collage, Mumbai billboard with live counter, product cut-out grid (Porsche, Hermès, AirPods), "masala chai" IV bag joke, thali "1,000 ₹ Dinner", tap-to-pay phone, B&W crowd w/ big words, ends on phone with CRED. Warm, witty, Indian-specific. STRONG reference.
+- 33 25s 16:9 — "Quiet Tides"(?) visual essay: B&W scratch collage faces, hands reaching, fire tunnel w/ tiny figure, light-trail "FREE" written over field of tiny glowing spirits, blue horizon running figure, tiny man standing on a giant head. Poetic, small-figure-vs-huge-world.
+- 34 56s 16:9 — invideo MCP/creative-suite launch: light lavender-peach gradient, "Claude Motion" prompt UI, pill-chip words, agent cursors (Director/Editor/Colorist/Sound) around a clip, "250+ AI models" w/ fanned colourful logo-card arc, pixel "mcp" type, timeline w/ agent cursors, enterprise grid of avatars, SOC2/GDPR cards, Thanos gauntlet gag "Don't juggle tools". Polished SaaS launch, lots of ideas.
+- 35 46s 9:16 — split: motion-design version top / "Original" talking head bottom. Opus 5.5 motion edit: purple+peach gradient, italic serif accent words (cheaper, keyframes), bezier curve, dot grids, code card, clock. Shows talking-head → designed edit transformation.
+- 36 13s 16:9 — dark: silhouette at window, eye reflecting man, kaleidoscope grid of men climbing out of windows. Monochrome surreal.
+- 37 72s 9:16 — Indian creator "CLAUDE cannot do this ❌ You didn't know it yet": phone filming laptop showing Claude-made HINDI typographic lyric animations (Devanagari kinetic type, spiral text, clock, fingers pinching text, ink texture). Hindi type motion = huge Indian appeal.
+- 38 65s 16:9 — Replit/Amjad story, Vox-style: single burnt-orange + cream palette, film grain & light leaks, retro CRT computer, dice in "TWICE/FOUR", podium bars, valuation cards fan, Rick Astley cut-out, small spaced caps text. One-colour documentary — STRONG style ref.
+- 39 44s 16:9 — UPI revolution motion film (Indian): teal-green dark world, glowing orange orb travelling, "They said… Digital India is just a dream", crowd silhouettes with glowing phones, 3D UPI Send-Money UI cards on grid floor, India map arcs, embossed white UPI logo end. STRONG Indian launch ref.
+- 40 35s 4:3 — invideo creator ad: moody tungsten-room cinematography, huge red warped/arched kinetic words wrapping around the person (3D text in space), white serif+sans mixes, comment CTA. Text-in-scene integration.
+- 41 30s 16:9 — "Akka for the rescue" AI-animated (Seedance) Tamil-village short: girl in pavadai chasing kite over rooftops, market, paddy, rock hill; painterly 2D-3D. Not code-made, but proves Indian everyday-story appeal.
+- 42 59s 9:16 — before/after: talking head (before) vs designed edit (after): cream bg, red line-grid diagrams, B&W halftone cut-outs, brain illustrations, green panel timeline, "dopamine" red serif, mosaic of coloured squares + faces. Editorial-science explainer style.
+- 43 40s 9:16 — process breakdown of a 3D product film: numbered stage cards "01 IDEATION / 02 STORYBOARDING / 03 MODELING / 04 ANIMATIC / 05 ANIMATION / 06 COMPOSITING" (reflections/colors/lighting passes). Format idea: show our build steps.
+- 44 51s 16:9 — Edit Lobby agency film: white + deep magenta/maroon, lavender glossy logo pill, word pills inline, flying photo cards with motion blur, staircase line "for the top 1%", cards orbiting connected by lines, "SUITE № 004" badge. Elegant agency style.
+- 45/46 76s 9:16 (46 = duplicate) — same "Designed in Figma / Animated in AE" format as 01, Dubai podcast: yellow-gold bold captions, B&W cut-out guests, Dubai yacht, envato portraits Einstein/Branson. 
+- 47 25s 16:9 — Crumble logo animation "Claude Opus 5.5, just code, no AE": cream + royal blue; dot drops/bounces → ring morphs into "b" → "bake." → repeating outline word wall "bake. crunch. share. smile." → cookie 3D-ish → bites/crumbs burst → wordmark with cookie as "u". Exactly our tooling; simple, brand-coloured, satisfying.
+- 48 56s 16:9 — Claude skill ad: soft lavender-sky clouds, laptop floating in clouds, SKILL.md paper, glowing blob, "Not a studio. → Not an editor. Not a team." list, prompt box Opus 5.5, website cards w/ red ASCII horse, motion-blur card cascade, pixel mascot, "only the first 200", comment SKILL CTA.
+- 49 42s 16:9 — Higgsfield AI Motion Designer ad: macOS dock, Google search on flower photo, AE effect controls panel close-ups (big UI zoom), lime + dark palette, cards "AI Motion Designer / Astra", chat prompt "Higgsfield/use-", comment Build.
+- 50 28s 4:3 — invideo X-ray effect tutorial: white title cards w/ grey/black word weight contrast, editor UI, comment CTA. Generic.
+- 51 26s 16:9 — invideo "Agent Two": dark UI, glass editor panels floating over mountain landscape, cursor "Rocket" label, motion-blur AirPods. Glass-UI-over-photo look.
+- 52 71s 9:16 — Vox-style collage via Claude skill: paper-cut buildings, torn edges, engraving hands holding monuments, giant serif "Vox", yellow sun circles, sepia industrial collage, talking head with bold white caps captions, Higgsfield MCP. Vox collage = popular style.
+- 53 13s 9:16 — POV phone filming AE: Google Lens concept ad on vertical comp: "Don't Know [pill] The Name", Lens dots logo, hummingbird with scan corners, result card, red "Scan" flash, Google logo. Clean brand-accurate concept ad.
+- 54 7.5s 16:9 — "Hello Kay" studio intro: lavender-white bg, blue rounded block tumbles, spotlight cone sweeps, blue panel wipe w/ motion-blurred "Your Creative Partner". Tiny, crisp physics intro.
+- 55 20s 9:16 — TELUGU podcast clip (Raju): red bg cut-out speaker, Telugu-in-English words in red/white bold italic captions, big "Raju"/"Win" words behind/over subject. Regional-language kinetic captions.
+- 56 22s 9:16 — "Storyboard vs Final video" side-by-side: pencil sketch frame next to glassy blue final (calendar 2025, laptop on grass, app icons cloud, flow charts, YouTube grid "10 YEARS"). Process-reveal format again.
+- 57 15s 16:9 — Halotuter launch (WIP): blue dot-matrix wave, forest aerial bg w/ centered white text, prompt box w/ product logo, iPhone mock over landscape, blue G logo. Simple; "what if AI could see".
+- 58 181s 9:16 — F1 explained by creator holding a toy: white-bg explainer inserts — pixel-art F1 cars, ribbon labels "WIN THE CHAMPIONSHIP", sticky-note session cards (FREE PRACTICE 01) on tilted grid, track map with sectors, tyre compounds, meme cutaways (Cars, Horner). Playful explainer.
+- 59 107s 9:16 — "Dopamine Addiction Loop" storytelling: top-half black motion graphics (glowing red infinity loop, poker chips, phone mock, script page, headlight road curves "The Headfake", "Art of Contrast" A/B), bottom talking head; single-word captions. Dark neon explainer.
+- 60 35s 9:16 — talking head top + script doc bottom with colour-coded highlights (Hook/Lead/Body/Open loop/CTA) progress bars syncing. Structure-explainer.
+- 61 27s 16:9 — invideo "grid effect": big red 3D-warped words wrapping around person (same series as 40), film-room look, UI close-ups.
+- 62 101s 9:16 (letterboxed 16:9) — "I built a TV that loops anime forever": cinematic maker vlog, warm desk lighting, manga speed-line burst, circular inset, blueprint on cutting mat, PS2/Raspberry Pi product shots, small clean captions. Story vlog.
+- 63 13s 16:9 — Koral motion-designer intro: meadow photo bg, chat bubble "Hi I'm Koral…", cream "I turn ideas" with bracket chevrons, brand grid, black-to-peach gradient "Let's Make / Move".
+- 64 65s 16:9 — HookMaster Motion (MCP for Claude Code) launch: deep navy gradient, italic serif + sans mix with blue pill highlight ("launch films."), Claude Code connector UI, timeline review, "Your agent fixes its own cut", card cloud of made films, fintech card "Vault", logo w/ stacked bars. DIRECT COMPETITOR/peer of what we do — remotion-made launch films.
+- 65 60s 16:9 — "OpenAI Dots × Higgsfield": cute blob mascots (dots with faces) in brand colours, research/agent status cards, white soft UI, motion-blur card stacks, phone app, creator footage. Mascot-driven product story.
+- 66 31s 16:9 — "SaaS Animations" series intro: rainbow tube strands, upside-down lake shot w/ flipping box "CREATE", grid-cell layouts, black cartoon creature, prompt box over meadow, node-graph workflow (Prompt → Transition), retro CRT, "Chapter 00 Of Learning". Eclectic, series-branding.
+- 67 51s 16:9 — Nexus (multi-model AI) launch: off-white tech-annotation micro-text, dark navy glass UI, 3D tilted model-logo tiles (GPT/Gemini/Claude/Grok), green aggregated-response card, mode chips over photos (coding/maths/reasoning on chessboard), compass-star logo end. Premium dark SaaS.
+- 68 47s 9:16 — talking-head editing rules: one word per caption, colour/font swaps (Playfair, DRUK WIDE, Helvetica), framing traffic-light, red safe-zone frames. Caption craft reference.
+- 69 32s 4:3 — SFX tips: creator + 3D glossy blue/white captions behind/in front of head, white cards with audio waveform under clips ("every reveal / every number"), Finder SFX folders. SFX = premium.
+- 70 84s 16:9 — "100% craft 0% AI" showreel (Arabic designer): maximal colourful 2D/3D variety — retro game props, Arabic calligraphy, character animation, neon portfolio. Range reel; craft signal.
+- 71 22s 4:3 — Google Flow gaussian-splat promo: red bold warped words around person (same invideo-style kinetic type), point-cloud room scenes, mint-grey studio end "Start creating today at Flow".
+- 72 39s 4:3 — "Nobody watches your videos for the camera": cinematic forest/waterfall creator footage w/ red+white 3D warped words, lens-tunnel text, Higgsfield. Same kinetic-word genre.
+- 73 45s 16:9 — OpenAI design guidelines / type specimen: pure white, black OpenAI Sans glyphs, dot-matrix circle morphing into ring, construction lines on "GPT", outline-vs-solid letters, glyph grid, weights list, "o3", Chain of Thought. Swiss typographic — VERY premium, very code-friendly.
+- 74 25s 16:9 — Opus 5.5 × Higgsfield AE: tilted 3D UI planes, peach blur orb "Opus 5.5 ✳", lime gradient lockup, toggle switch on, giant "/use-after-effects" mono text, AE timeline, "Ready to tweak". Fast tech-promo.
+- 75 22s 16:9 — Pinterest concept ad: macOS dock click Pinterest, glass search bar over 3D grass meadow, typing "Help me fi…", 3D toy grid (Naruto etc.), word-list wheel "Express/Manifest/Save" with selection box, "Save the Vibe!" sticker type, P logo. Clean concept-ad structure (hook → product UI → hero → logo).
+- 76 45s 16:9 — Base44 "Can't is dead" campaign: live-action builders (chef, laundromat, office), giant "Builders"/"It'" condensed type over footage, app UIs, schedule grid, cream "Can't is dead." → orange Base44 end. Music+SFX-led brand spot.
+- 77 44s 9:16 — SFX breakdown of a Base44 edit: shows the Premiere timeline (dense SFX layers) under the edit: mountains photo + floating UI, typing "well every", /github sync dark, "Stop dreaming / building it." Proof: dense SFX per cut.
+- 78 10s 9:16 — South-Indian wedding invite: flat illustrated pink flower-decked auto-rickshaw drives across dark-green textile bg w/ maroon/gold border, horn honks, Tamil "அண்ணா, Next stop?" → Malayalam "വരുന്നു" in yellow, headlight beam. Charming regional illustration + type.
+- 79 50s 4:3 — invideo Agent Two SFX ad: kimono creator w/ katana, yellow neon glow strokes, sunburst rays, layered audio-layer cards (Dry audio / Layer 1-3), hand-drawn yellow captions. Energetic.
+- 80 44s 16:9 — "Ma" (Japanese concept of space) explainer: white bg, single red accent, 間 kanji in pink circle, sliced bust, pause button, vinyl player, red clock, pentagon tags "No music / No cut", tiny centred text w/ lots of air. Editorial, calm, ONE colour — great template.
+- 81 14s 16:9 — gym/night cinematic w/ small-caps serif lyric subtitles centred (Michael Jackson lyric). Mood edit.
+- 82 78s 4:3 — creator life-story doc ("folding clothes at ZARA → 2.8M views"): VHS/film texture, script page V.O., cork-board with stickies + words in arc around retro TV, 3D chrome words in golden sparkle tunnel, B&W flashbacks, glitch type, Dubai flag collage. Documentary storytelling w/ maximal type.
+- 83 11s 16:9 — personal intro: off-white, "He" with pixel hand wave, silhouette head, bouncing "Your" letters, cartoon eye blink black, "Creative Producer/Designer" w/ squiggle underline + tiny icons, KORRI end. Minimal & witty micro-animations.
+- 84 141s 16:9 — ServiceUp fleet-repair SaaS film: white + orange/purple gradient, "Well…" opener, van photo with "-$450", glowing pill "Downtime", trucks lineup selection box, agent cards, map with 94% match, word-list scroll "Intake. Shop routing. Approval. → Communication.", purple pill bar chart 30%, logo. Very complete B2B story structure (pain → platform → proof).
+- 85 40s 9:16 — process: AE comp + final split, lime-green blobs, toggle "Different", squiggle, chair product cards "EVERY Chair", "Workflow behind it". Lime+white editorial.
+- 86 25s 9:16 — Gemini Omni Flash on Arcads: same talking head restyled into many styles (Paper Animation, Vox, Full Motion Graphics, Real footage + animations, UI/UX demo) with "Original" inset + handwritten arrows. Style catalogue in one reel.
+- 87 42s 9:16 — The Scream retro story: museum-wall framed painting lit by spotlight, sepia, "1892" big type, Munch cut-out w/ yellow name tag, painting versions grid (Oil/Pastel/Paper), red marker highlight, green cutting mat, EarnEdits AE cards w/ hands. Art-history storytelling.
+- 88 55s 9:16 — Motion designer (Daniil) shows Opus 5.5 workflow: phone filming laptop over shoulder, results as minimal white cards on black ("New creative tools appear every day"), Claude UI, red brand grid, "5+ years", portfolio grid, portrait end. Calm, honest process reel.
+- 89 23s ~16:10 silent — single SaaS UI card "Fleet health" (GPU grid, live number counting, tooltip hover) in pale grey. Pure UI micro-interaction loop.
+- 90 14s 5:4 — "Made with Anatomy" record player: isometric line-illustration that explodes into 11 labelled assemblies, hover highlights part in list, mono caption "45 RPM · groove passes stylus at 0.47 m/s", reassembles & spins up. Technical exploded-view — VERY code-friendly & premium.
+- 91 21s silent — "Agent runtime" UI card: isometric block stack with orange active block, agent list rows w/ status pills. Same product family as 89/92 (Hairline UI?).
+- 92 20s silent — "Context window" UI card (claude-sonnet-5-5 tag): token dot-grid fills, rows System prompt/Tools/Files/Conversation/Memory, Compact button saves 78K tokens; light + dark themes. Real-UI micro-interaction.
+- 93 46s 16:9 — Hairline UI launch: "Interactions that make it feel alive." — showcase of UI interactions with Figma-style blue selection boxes & size labels (reading text shimmer, text improve, charts, rolling number counter, pricing slider, form steps, roadmap list reorder, changelog, landing pages), app-icon logo end. Interaction-craft reel.
+- 94 81s ~6:5 — "Coding agent" as isometric wireframe factory on dark: conveyor/gate machines light up per turn (Search, Read, Bash waits for approval…) with mono status line "turn 4 · Bash runs a shell command". Agent-loop visualised as a machine — great Claude Code concept.
+- 95 5s 16:9 — "Typing Animation": text types with a glowing orange spark cursor that loops an underline swoosh, then fades. Micro type effect.
+- 96 17s 16:9 — ObsidianUI: chrome crystal, metallic silver wordmark, motion-blur "Ship Better.", Indian devotional text w/ image hover reveal "Shree Krishna / Radha", tilted UI grids, giant ghost number 47,880, "Press." button. Dark premium component-lib reel.
+- 97 28s 16:9 — Wispr Flow voice-dictation: dark "11:47 PM" email typing "Still typing. / You think at 220 words a minute. You type at 45." (serif + orange numbers), spoken words spiral out of a mic pill, switch to cream: "Replied.", code, pink iMessage "Happy birthday Mom!", "Inbox zero.", "Get your night back." → Flow logo "Don't type, just speak." BEST-IN-CLASS product story: problem → magic → many use-cases → payoff line.
+- IMAGES
+- I01–I08 @itsdesignare "This prompt changes the whole city (postcard edition)": Indian destinations (Mumbai, Goa, Udaipur, Varanasi, Himachal, Bangalore, Kutch, Pahalgam) — photo left, cream paper strip right w/ condensed serif city name, risograph/linocut illustration of same scene, typewriter caption "No. 041 · Skyline | Coastline | Timeless · 2026". Indian + editorial + paper texture. STRONG.
+- I09, I12–I16 — "PROMPT" photo-collage edits: cinematic photo on top; below, subject cut out on white with a horizontal/vertical strip window of the original background crossing behind them (car, boat, woman in field, couple w/ lamppost, flower girl, bougainvillea house). Simple, striking collage move — easy in code (mask strip + cut-out).
+- I10, I11, I17, I18 — carousel for the "Make room for less" Claude skill (refs 04/19/25): step cards Step1 colours+fonts (Inter, #F4EEE4/#1F1218/#E8357A), Step2 product photos → gradient shapes, Step3 tell Claude what moves, Step4 AE script file. Cream + serif condensed headlines.
+- I19 — Netflix-style poster "Anatomy of the Artist Brain": red bg, halftone B&W profile, colourful scribble-lettering exploding out of open head.
+
+## File index
+
+- 01 · 30.0s · 720,1280,30/1 · AQPhb6RoyNivzCP8dQ0YjB1iSFMcHtXWEcPBwgLgLNOMdcLmDWg--V-moaTnKu6iR0NOpyjxdQ3b_ouaZ3LKpGigXo
+- 02 · 50.0s · 720,1280,25/1 · SaveVid.Net_AQPspetApz-2NidvR6rt-3e3zxgz2TQ4bOrJFVLf4u5ttIOGcr93BcnJSHjI38lO1HxB9O2D-nU-UG
+- 03 · 53.8s · 720,1280,30/1 · Video-15475.mp4
+- 04 · 14.0s · 720,900,25/1 · Video-15829.mp4
+- 05 · 23.5s · 720,1280,2997/125 · Video-15993.mp4
+- 06 · 34.6s · 1276,718,30/1 · Video-16138.mp4
+- 07 · 17.9s · 1276,718,30/1 · Video-16826.mp4
+- 08 · 60.1s · 1280,720,30/1 · Video-26009.mp4
+- 09 · 12.0s · 1276,720,30/1 · Video-28078.mp4
+- 10 · 21.9s · 720,1280,30/1 · Video-2936.mp4
+- 11 · 56.8s · 720,1280,30/1 · Video-36059.mp4
+- 12 · 14.7s · 720,1280,30/1 · Video-36811.mp4
+- 13 · 64.9s · 720,1280,30/1 · Video-38265.mp4
+- 14 · 21.9s · 1276,718,2997/125 · Video-38488.mp4
+- 15 · 40.7s · 720,1280,30/1 · Video-39070.mp4
+- 16 · 6.8s · 1280,720,30/1 · Video-4186.mp4
+- 17 · 10.6s · 1276,718,30/1 · Video-44772.mp4
+- 18 · 22.7s · 1276,720,30/1 · Video-46448.mp4
+- 19 · 14.0s · 720,900,25/1 · Video-48842.mp4
+- 20 · 29.1s · 1276,718,30/1 · Video-52256.mp4
+- 21 · 32.2s · 720,1280,30/1 · Video-56779.mp4
+- 22 · 10.2s · 1276,718,30/1 · Video-57607.mp4
+- 23 · 19.0s · 1280,716,30/1 · Video-5819.mp4
+- 24 · 63.1s · 720,1280,30/1 · Video-58709.mp4
+- 25 · 10.6s · 720,900,25/1 · Video-6010.mp4
+- 26 · 5.7s · 1276,718,24/1 · Video-6034.mp4
+- 27 · 10.7s · 1276,718,30/1 · Video-61258.mp4
+- 28 · 20.2s · 1280,720,30/1 · Video-61410.mp4
+- 29 · 13.9s · 1276,718,30/1 · Video-72564.mp4
+- 30 · 70.1s · 1276,718,30/1 · Video-72678.mp4
+- 31 · 15.1s · 720,1280,24/1 · Video-74096.mp4
+- 32 · 45.0s · 960,720,30/1 · Video-75397.mp4
+- 33 · 24.6s · 1276,718,30/1 · Video-75920.mp4
+- 34 · 55.7s · 1276,718,30/1 · Video-77378.mp4
+- 35 · 46.1s · 720,1280,30/1 · Video-95781.mp4
+- 36 · 12.7s · 1276,718,24/1 · Video-96024.mp4
+- 37 · 71.7s · 1440,2560,60/1, · savefromins.com  0 1440P.mp4
+- 38 · 64.9s · 1920,1080,30/1 · savefromins.com $9 billion empire, 40 million+ users, and is changing an entire industry..
+- 39 · 43.5s · 1920,1080,30/1 · savefromins.com A 43 second motion graphics film on the UPI revolution. __#motiongraphics 
+- 40 · 35.0s · 1440,1080,24/1 · savefromins.com AI Video just got crazier 🤯__Comment “MCP” and I’ll send you the 
+- 41 · 30.0s · 1916,1078,24/1 · savefromins.com Akka for the rescue 🪁 _._._Follow @arkizen.studio _._._Created using se
+- 42 · 58.6s · 1080,1920,25/1 · savefromins.com Animation tests done for @aevytvdaily a long time back. __Was fun to work 
+- 43 · 40.4s · 1080,1920,2997/100 · savefromins.com Breakdown of my favorite project this year 🙂👊🏻_#motiondesign #mot
+- 44 · 51.1s · 1916,1078,24/1 · savefromins.com Building Edit Lobby taught us something important_ there are two kinds of 
+- 45 · 76.3s · 1080,1920,60/1 · savefromins.com Built this podcast intro for @bartawi BXB’s episode with @andreas_kcal, 
+- 46 · 76.3s · 1080,1920,60/1 · savefromins.com Built this podcast intro for @bartawi BXB’s episode with @andreas_kcal, 
+- 47 · 25.0s · 1920,1080,60/1 · savefromins.com Comment _Crumble_ & Mention @crumblepakistan @crumbledobara to get the log
+- 48 · 56.4s · 1920,1080,30/1 · savefromins.com Comment _SKILL_ and I'll DM you the Claude Code skill that made this entir
+- 49 · 41.6s · 1916,1078,2997/100 · savefromins.com Comment “Build” to get the Project files.__@higgsfield.ai _#higgsfield
+- 50 · 27.5s · 1440,1080,30/1 · savefromins.com Comment “Invideo” and I’ll send you the exact prompt I used 🚀📩
+- 51 · 25.7s · 1916,1078,30/1 · savefromins.com Comment “viral” for the full prompt + the invideo link to try it out f
+- 52 · 70.7s · 1080,1920,2997/100 · savefromins.com Comment “VOX” and I’ll send you the Skill__Vox-style motion design
+- 53 · 12.7s · 1080,1920,30/1 · savefromins.com Concept Ad for Google Lens__#motiongraphics #motiondesign #aftereffects #a
+- 54 · 7.5s · 1920,1080,30/1 · savefromins.com DM for projects..__Creating premium product animations is all about making
+- 55 · 19.6s · 1080,1920,25/1 · savefromins.com Dm for work __#foryou ##motiondesign #videoediting #videoeditor 0 1080P.mp
+- 56 · 22.5s · 1080,1920,60/1 · savefromins.com Edited this video a few months ago for @siliconvalleygirl._.__#videoeditin
+- 57 · 14.6s · 1920,1080,2997/100 · savefromins.com Follow and Comment _Ganimate_ for project file.__Video under progress, lot
+- 58 · 181.1s · 1080,1920,24/1 · savefromins.com For the longest time, F1 to me was cars going vroom vroom, Lewis Hamilton 
+- 59 · 107.4s · 1080,1920,2997/125 · savefromins.com Here’s how to make your storytelling so addictive, it is scientifically 
+- 60 · 35.2s · 1080,1920,30/1 · savefromins.com Hey what’s up 🙋 I'm Sky and 3 years ago I got OBSESSED with 1 questio
+- 61 · 27.3s · 1440,1080,24/1 · savefromins.com How To Do The Viral Grid Effect 💻__Comment “invideo” and I’ll sen
+- 62 · 101.1s · 1440,2560,24/1 · savefromins.com I built a TV that loops anime… forever. __For those that want to know th
+- 63 · 12.6s · 1080,608,60/1 · savefromins.com Ideas are static. __Motion brings them to life. ⚡_A little introduction 
+- 64 · 65.2s · 1916,1078,60/1 · savefromins.com Introducing HookMaster Motion.__Make high-quality motion design videos for
+- 65 · 59.5s · 1916,1078,30/1 · savefromins.com Introducing OpenAI’s Dots x Higgsfield 🧩__Your always-on Higgsfield c
+- 66 · 30.5s · 1920,1080,30/1 · savefromins.com Is My 5 Hrs Worth It_🤧_._._.__#alightmotiontutorial #videoediting #moti
+- 67 · 50.5s · 1916,1078,30/1 · savefromins.com Jack of all trades , master of none is always better than master of one. T
+- 68 · 47.4s · 1080,1920,25/1 · savefromins.com Know these rules, so you know when to break them !!! 0 1080P.mp4
+- 69 · 32.0s · 960,720,2997/125 · savefromins.com Most creators still edit with the same stock whooshes and soft clicks. Pre
+- 70 · 84.0s · 1916,1080,30/1 · savefromins.com My 2026 Showreel_100% Craft 0% AI__#motiondesign #showreel #motiondesigner
+- 71 · 22.3s · 1920,1440,24/1 · savefromins.com My last two posts show how it came together._@googleflow __Start creating 
+- 72 · 38.5s · 1440,1080,24/1 · savefromins.com Nobody watches your videos for the camera you use.__It took me years to fi
+- 73 · 44.8s · 1916,1080,30/1 · savefromins.com OpenAI Design Guidelines #openai #chatgpt #astra #uidesign #openaidesign 0
+- 74 · 25.3s · 1916,1078,25/1 · savefromins.com POV_ You make launch videos for one of the biggest brands in the AI space.
+- 75 · 22.0s · 1920,1080,60/1 · savefromins.com Pinterest — Concept Ad 📌__Made this ad concept entirely in After Effe
+- 76 · 44.7s · 1916,1078,24/1 · savefromins.com Rumor has it can’t is dead. Sounds about right. 🟠__Original music and
+- 77 · 43.7s · 1080,1920,30/1 · savefromins.com SFX Breakdown - Base44 Edit_Like & Comment “Base” for project file lin
+- 78 · 10.4s · 1080,1920,60/1 · savefromins.com She’s back! And she had a glow-up 🛺✨__Keep watching…__(wedding de
+- 79 · 49.5s · 1440,1080,30/1 · savefromins.com Sounds can change your video_—_Comment “Invideo” and I’ll send you
+- 80 · 44.0s · 1916,1080,25/1 · savefromins.com The Japanese editing concept that makes your videos feel premium — ma__T
+- 81 · 14.1s · 1916,1078,2997/125 · savefromins.com The system isn’t built to help you win—it’s built to see how much pa
+- 82 · 77.7s · 1440,1080,24/1 · savefromins.com What is your story__—_Comment “Dream” and I’ll send you The exact 
+- 83 · 11.1s · 1916,1080,30/1 · savefromins.com move the message.__#motiondesign #motiongraphics #animation #visualdesign 
+- 84 · 141.0s · 1916,1080,30/1 · savefromins.com 💡 Got a great idea but don’t know how to explain it___We turn complex
+- 85 · 40.0s · 1080,1920,30/1 · savefromins.com 📁 Project file now on EarnEdits — link in bio 🎬__🖥️ Built wit
+- 86 · 25.4s · 1080,1920,25/1 · savefromins.com 🔥 Comment _OMNI_ for the setup guide!_Gemini Omni Flash on @arcads_ai a
+- 87 · 42.1s · 1080,1920,30/1 · savefromins.com 🖼️A hidden pencil note. Four versions. One painting that turned fear 
+- 88 · 54.7s · 1080,1920,30/1 · savefromins.com 🤔I didn’t expect Opus 5.5 to be this good at motion.__I gave it a cle
+- 89 · 23.2s · 1148,720,29/1 · threadsdownloader.com_295ee7.mp4
+- 90 · 13.9s · 900,720,30/1 · threadsdownloader.com_4daa70.mp4
+- 91 · 20.7s · 1144,718,29/1 · threadsdownloader.com_7b1bb8.mp4
+- 92 · 20.3s · 1052,720,30/1 · threadsdownloader.com_9638a9.mp4
+- 93 · 46.2s · 1280,720,30/1 · threadsdownloader.com_d5e4e7.mp4
+- 94 · 80.6s · 872,718,30/1 · threadsdownloader.com_e4aaa6.mp4
+- 95 · 5.2s · 1280,720,30/1 · threadster_2edh2b51.mp4
+- 96 · 17.4s · 1280,720,30/1 · threadster_dmz5na9a.mp4
+- 97 · 28.4s · 1280,720,30/1 · threadster_ptd0k8r5.mp4

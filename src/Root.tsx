@@ -24,6 +24,13 @@ import { ApplePayStyle } from "./apple-pay/Style";
 import { DotsProto, PlacesProof } from "./apple-pay/DotsProto";
 import { SarvamLive } from "./sarvam-live/SarvamLive";
 import { FPS as SL_FPS, HEIGHT as SL_H, TOTAL_SEC as SL_SEC, WIDTH as SL_W } from "./sarvam-live/theme";
+import { LogoCheck } from "./brand/LogoCheck";
+import { MustangFrames } from "./mustang/Frames";
+import { MustangRealFrames } from "./mustang/RealFrames";
+import { MustangWorldFrames } from "./mustang/WorldFrames";
+import { MUSTANG, MustangBeatIt } from "./mustang/Film";
+import { BEATME, MustangBeatMe } from "./mustang/BeatMe";
+import { SpotifyStems, STEMS_FILM } from "./spotify-stems/StemsFilm";
 import { loadFonts, toFrames } from "./utils";
 
 loadFonts();
@@ -31,6 +38,13 @@ loadFonts();
 export const RemotionRoot: React.FC = () => {
   return (
     <>
+      <Composition id="SpotifyStems" component={SpotifyStems} durationInFrames={Math.round(STEMS_FILM.seconds * STEMS_FILM.fps)} fps={STEMS_FILM.fps} width={STEMS_FILM.width} height={STEMS_FILM.height} />
+      <Composition id="MustangBeatMe" component={MustangBeatMe} durationInFrames={Math.round(BEATME.seconds * BEATME.fps)} fps={BEATME.fps} width={BEATME.width} height={BEATME.height} />
+      <Composition id="MustangBeatIt" component={MustangBeatIt} durationInFrames={Math.round(MUSTANG.seconds * MUSTANG.fps)} fps={MUSTANG.fps} width={MUSTANG.width} height={MUSTANG.height} />
+      <Composition id="MustangWorldFrames" component={MustangWorldFrames} durationInFrames={3} fps={30} width={1920} height={1080} />
+      <Composition id="MustangRealFrames" component={MustangRealFrames} durationInFrames={3} fps={30} width={1920} height={1080} />
+      <Composition id="MustangFrames" component={MustangFrames} durationInFrames={3} fps={30} width={1920} height={1080} />
+      <Composition id="LogoCheck" component={LogoCheck} durationInFrames={30} fps={30} width={1920} height={1080} />
       <Composition id="ClaudeSonnetDemo" component={ClaudeSonnetDemo} durationInFrames={toFrames(SONNET_DEMO.units, SONNET_DEMO.fps)} fps={SONNET_DEMO.fps} width={SONNET_DEMO.width} height={SONNET_DEMO.height} />
       <Composition id="SonnetDemoFrames" component={SonnetDemoFrames} durationInFrames={90} fps={30} width={1920} height={1080} />
       <Composition id="ClaudeDemo30" component={ClaudeDemo} durationInFrames={Math.round(DEMO.seconds * DEMO.fps)} fps={DEMO.fps} width={DEMO.width} height={DEMO.height} />

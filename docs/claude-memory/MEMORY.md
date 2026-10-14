@@ -1,0 +1,15 @@
+- [Breeders page](project_breeders_page.md) — horizontal 16:9, ≤30s, private repo Sujithkrys/breeders; brand in src/brand/Breeders.tsx (real logo since 2026-10-13: blue emblem + vector wordmark)
+- [Breeders films](project_films.md) — which films exist, where, sound scripts; latest = ClaudeSonnetDemo
+- [Made in Claude only](feedback_claude_only.md) — no Veo/AI generators/stock; realism from code (Three.js, shaders, real UI, type, SFX)
+- [Discuss before building](feedback_discuss_first.md) — storyboard + look frames + explicit go-ahead before writing video code
+- [Typography + realism first](feedback_typography_realism.md) — Pine Pro's exact type sizes; isolated real UI, calm readable shots
+- [No serif fonts](feedback_no_serif.md) — sans only; accent via weight/colour
+- [Render: always 4K, only when asked](feedback_render_on_request.md) — finals are 4K; chunked frames + one encode recipe for this low-RAM laptop
+- [No Blender](feedback_no_blender.md) — 3D in Remotion/Three.js so it previews live
+- [Use D: for downloads](feedback_use_d_drive.md) — C: is full; installs/caches/models on D:, project on E:\Breeders
+- [Audio library](reference_audio_library.md) — E:\Breeders\audio; safe vs unsafe music; best SFX; compose-script pattern
+- [Bencho Finds](reference_bencho_finds.md) — 164 UI-motion refs from bencho.dev/finds; catalog in docs/bencho-finds.md; curated AI/morph/3D/glass picks
+- [ThreeUI](reference_threeui.md) — threeui.com reviewed: reference only (AI textures, no licence); cut-plane build test rejected
+- [Instagram reference learnings](reference_instagram_learnings.md) — 8–16 sound events/10s, VO coverage, signature moves
+- [New references Oct 2026](reference_new_references.md) — 97 videos+19 images; learnings docs/new-references.md; top picks Wispr Flow, CRED, UPI, postcards
+- [International audience](feedback_international.md) — no Indian languages or India-only concepts; global English films
