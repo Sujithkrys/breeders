@@ -31,6 +31,18 @@ import { MustangWorldFrames } from "./mustang/WorldFrames";
 import { MUSTANG, MustangBeatIt } from "./mustang/Film";
 import { BEATME, MustangBeatMe } from "./mustang/BeatMe";
 import { SpotifyStems, STEMS_FILM } from "./spotify-stems/StemsFilm";
+import { YAAD, YaadFilm } from "./yaad/YaadFilm";
+import { HUKUM, HukumReel } from "./hukum/HukumReel";
+import { HUKUM_DEMO, HukumDemo } from "./hukum/Demo";
+import { LOOKS, RajiniLooks } from "./hukum/Looks";
+import { RajiniSpecimen, SPECIMEN } from "./hukum/Specimen";
+import { AUTO_DEMO, AutoDemo } from "./rajini/AutoDemo";
+import { AUTO_DRIVE, AutoDrive } from "./rajini/AutoDrive";
+import { RAJINI, RajiniReel } from "./rajini/RajiniReel";
+import { PORTRAIT_DEMO, PortraitDemo } from "./rajini/PortraitDemo";
+import { RAJINI_DOTS, RajiniDots } from "./rajini/RajiniDots";
+import { SHEET, ThalaivarSheet } from "./rajini/ThalaivarSheet";
+import { FIGMA, FigmaMotion } from "./figma-motion/FigmaMotion";
 import { loadFonts, toFrames } from "./utils";
 
 loadFonts();
@@ -38,6 +50,18 @@ loadFonts();
 export const RemotionRoot: React.FC = () => {
   return (
     <>
+      <Composition id="FigmaMotion" component={FigmaMotion} durationInFrames={Math.round(FIGMA.seconds * FIGMA.fps)} fps={FIGMA.fps} width={FIGMA.width} height={FIGMA.height} />
+      <Composition id="ThalaivarSheet" component={ThalaivarSheet} durationInFrames={SHEET.frames} fps={SHEET.fps} width={SHEET.width} height={SHEET.height} />
+      <Composition id="RajiniDots" component={RajiniDots} durationInFrames={Math.round(RAJINI_DOTS.seconds * RAJINI_DOTS.fps)} fps={RAJINI_DOTS.fps} width={RAJINI_DOTS.width} height={RAJINI_DOTS.height} />
+      <Composition id="PortraitDemo" component={PortraitDemo} durationInFrames={Math.round(PORTRAIT_DEMO.seconds * PORTRAIT_DEMO.fps)} fps={PORTRAIT_DEMO.fps} width={PORTRAIT_DEMO.width} height={PORTRAIT_DEMO.height} />
+      <Composition id="RajiniReel" component={RajiniReel} durationInFrames={Math.round(RAJINI.seconds * RAJINI.fps)} fps={RAJINI.fps} width={RAJINI.width} height={RAJINI.height} />
+      <Composition id="AutoDrive" component={AutoDrive} durationInFrames={Math.round(AUTO_DRIVE.seconds * AUTO_DRIVE.fps)} fps={AUTO_DRIVE.fps} width={AUTO_DRIVE.width} height={AUTO_DRIVE.height} />
+      <Composition id="AutoDemo" component={AutoDemo} durationInFrames={Math.round(AUTO_DEMO.seconds * AUTO_DEMO.fps)} fps={AUTO_DEMO.fps} width={AUTO_DEMO.width} height={AUTO_DEMO.height} />
+      <Composition id="RajiniSpecimen" component={RajiniSpecimen} durationInFrames={SPECIMEN.frames} fps={SPECIMEN.fps} width={SPECIMEN.width} height={SPECIMEN.height} />
+      <Composition id="RajiniLooks" component={RajiniLooks} durationInFrames={LOOKS.frames} fps={LOOKS.fps} width={LOOKS.width} height={LOOKS.height} />
+      <Composition id="HukumDemo" component={HukumDemo} durationInFrames={Math.round(HUKUM_DEMO.seconds * HUKUM_DEMO.fps)} fps={HUKUM_DEMO.fps} width={HUKUM_DEMO.width} height={HUKUM_DEMO.height} />
+      <Composition id="HukumReel" component={HukumReel} durationInFrames={Math.round(HUKUM.seconds * HUKUM.fps)} fps={HUKUM.fps} width={HUKUM.width} height={HUKUM.height} />
+      <Composition id="YaadFilm" component={YaadFilm} durationInFrames={Math.round(YAAD.seconds * YAAD.fps)} fps={YAAD.fps} width={YAAD.width} height={YAAD.height} />
       <Composition id="SpotifyStems" component={SpotifyStems} durationInFrames={Math.round(STEMS_FILM.seconds * STEMS_FILM.fps)} fps={STEMS_FILM.fps} width={STEMS_FILM.width} height={STEMS_FILM.height} />
       <Composition id="MustangBeatMe" component={MustangBeatMe} durationInFrames={Math.round(BEATME.seconds * BEATME.fps)} fps={BEATME.fps} width={BEATME.width} height={BEATME.height} />
       <Composition id="MustangBeatIt" component={MustangBeatIt} durationInFrames={Math.round(MUSTANG.seconds * MUSTANG.fps)} fps={MUSTANG.fps} width={MUSTANG.width} height={MUSTANG.height} />
